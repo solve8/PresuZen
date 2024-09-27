@@ -1,0 +1,1 @@
+ /home/solve/AndroidStudioProjects/copia_tilin_money/.dart_tool/flutter_build/145bb7bd96fd5dde8ec98abb34018678/native_assets.yaml: 
