@@ -350,13 +350,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "tintin_money",
+      "name": "PresuZen",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2024-09-26T09:27:55.246808Z",
+  "generated": "2024-09-27T10:02:21.447654Z",
   "generator": "pub",
   "generatorVersion": "3.5.2",
   "flutterRoot": "file:///usr/lib/flutter",

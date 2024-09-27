@@ -1,5 +1,5 @@
-name: tintin_money
-description: "A new Flutter project."
+name: PresuZen
+description: "Una app para la gestión de presupuestos sin complicaciones."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
